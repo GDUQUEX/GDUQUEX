@@ -1,16 +1,52 @@
-## Hi there 👋
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+👋;+AO+MEU+PERFIL!)](https://git.io/typing-svg)
+---
 
-<!--
-**GDUQUEX/GDUQUEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="CENTER">
+  👑 GDUQUEX 👑
+  
+</h3>
+<p align="center">
+   ADS Student at UNIPㅤ|ㅤSoftware Developmentㅤ|
+  
+---
+<p align="left">
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e tenho grande interesse por desenvolvimento de software, automação e criação de soluções tecnológicas. Gosto de aprender coisas novas, enfrentar desafios e buscar sempre evoluir, tanto no lado profissional quanto pessoal, Sou uma pessoa esforçada, dedicada, responsável com muito comprometimento. 
+Procuro aproveitar cada oportunidade dada a mim para aprender, evoluir e melhorar minhas habilidades e colocar em prática tudo aquilo que estudo, buscando me desenvolver cada vez mais como profissional e como pessoa.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GDUQUEX&theme=transparent&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=GDUQUEX&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GDUQUEX/GDUQUEX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GDUQUEX/GDUQUEX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GDUQUEX/GDUQUEX/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+###
+<p align="center">
+<i>"A tecnologia move o mundo?"</i> 
+</p>
